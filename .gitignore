@@ -1,1 +1,8 @@
 /common/target/
+/.idea/
+/feign-api/target/
+/test/
+/e:/
+/service/user/target/
+/gateway/app-gateway/target/
+/service/article/target/
