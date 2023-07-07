@@ -1,4 +1,4 @@
-package com.heima.model.common.users.dtos;
+package com.heima.model.users.dtos;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
