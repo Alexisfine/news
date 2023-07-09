@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>app-gateway</module>
+        <module>wemedia-gateway</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
 
